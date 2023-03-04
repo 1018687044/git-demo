@@ -5,9 +5,4 @@ hello hahaha!
 hello hahaha!
 hello hahaha!
 hello hahaha!
-hello hahaha!
-<<<<<<< HEAD
-=======
-hello hahaha!我是hot
->>>>>>> hot-fix
-hello hahaha!
+hello hahaha!删了我吧
